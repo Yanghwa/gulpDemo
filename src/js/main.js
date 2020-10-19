@@ -1,6 +1,6 @@
-import { random } from "./util"
+import { random } from "./util";
 
-const rOne = random(10)
-const rTwo = random(20)
+const rOne = random(10);
+const rTwo = random(20);
 
-console.log(`${rOne} and ${rTwo}`)
+console.log(`${rOne} and ${rTwo}`);
